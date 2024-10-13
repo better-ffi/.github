@@ -21,12 +21,14 @@
 
 ### Docs:
 
-- ✅ [C FFI](https://cffi-zh-cn.readthedocs.io/zh/latest/)
+- ✅ [C FFI](https://en.wikipedia.org/wiki/Foreign_function_interface)
+- ✅ [Python FFI](https://cffi-zh-cn.readthedocs.io/zh/latest/)
 - ✅ [Rust FFI](https://doc.rust-lang.org/nomicon/ffi.html)
-- ✅ [GO FFI(CGO)](https://pkg.go.dev/cmd/cgo)
+- ✅ [Go FFI(CGo)](https://pkg.go.dev/cmd/cgo)
 - ✅ [Mojo FFI](https://docs.modular.com/mojo/stdlib/sys/ffi/)
 - ✅ [Dart FFI](https://dart.cn/interop/c-interop/)
 - ✅ [Nodejs AIP](https://github.com/napi-rs/napi-rs)
+- ✅ [Ruby FFI](https://github.com/ffi/ffi)
 
 ### Tools & Projects
 
@@ -48,6 +50,13 @@
 - ✅ https://github.com/dtolnay/cxx
 - ✅ https://github.com/napi-rs/napi-rs
 - ✅ https://github.com/fzyzcjy/flutter_rust_bridge
+
+
+#### Python:
+
+- ✅ https://github.com/python-cffi/cffi
+- ✅ https://github.com/PyO3/pyo3
+
 
 #### Dart:
 
